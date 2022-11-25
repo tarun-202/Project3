@@ -1,0 +1,14 @@
+127.0.0.1 - - [07/Nov/2022:16:11:04 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [07/Nov/2022:16:11:06 +0530] "GET /project_3/ HTTP/1.1" 200 766
+0:0:0:0:0:0:0:1 - - [07/Nov/2022:16:11:06 +0530] "GET /project_3/img/welcome1.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [07/Nov/2022:16:11:07 +0530] "GET /favicon.ico HTTP/1.1" 404 720
+0:0:0:0:0:0:0:1 - - [07/Nov/2022:16:12:13 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 3885
+0:0:0:0:0:0:0:1 - - [07/Nov/2022:16:12:13 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [07/Nov/2022:16:12:13 +0530] "GET /project_3/img/welcome01.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [07/Nov/2022:16:16:13 +0530] "GET /project_3/LoginCtl HTTP/1.1" 200 7277
+0:0:0:0:0:0:0:1 - - [07/Nov/2022:16:16:13 +0530] "GET /project_3/img/login01.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [07/Nov/2022:16:16:15 +0530] "POST /project_3/LoginCtl HTTP/1.1" 200 7314
+0:0:0:0:0:0:0:1 - - [07/Nov/2022:16:18:20 +0530] "GET /project_3/ForgetPasswordCtl HTTP/1.1" 200 5663
+0:0:0:0:0:0:0:1 - - [07/Nov/2022:16:18:29 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 3885
+0:0:0:0:0:0:0:1 - - [07/Nov/2022:16:18:29 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [07/Nov/2022:16:39:53 +0530] "GET /project_3/LoginCtl HTTP/1.1" 200 7277

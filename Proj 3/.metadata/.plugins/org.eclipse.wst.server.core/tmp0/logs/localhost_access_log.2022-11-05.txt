@@ -1,0 +1,16 @@
+127.0.0.1 - - [05/Nov/2022:16:14:39 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [05/Nov/2022:16:14:43 +0530] "GET /project_3/index.jsp HTTP/1.1" 200 766
+0:0:0:0:0:0:0:1 - - [05/Nov/2022:16:14:44 +0530] "GET /favicon.ico HTTP/1.1" 404 720
+0:0:0:0:0:0:0:1 - - [05/Nov/2022:16:14:49 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 3885
+0:0:0:0:0:0:0:1 - - [05/Nov/2022:16:14:50 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [05/Nov/2022:16:14:57 +0530] "GET /project_3/LoginCtl HTTP/1.1" 200 7277
+0:0:0:0:0:0:0:1 - - [05/Nov/2022:17:40:33 +0530] "POST /project_3/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [05/Nov/2022:17:40:33 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 9963
+0:0:0:0:0:0:0:1 - - [05/Nov/2022:17:40:33 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [05/Nov/2022:17:40:44 +0530] "GET /project_3/ctl/MarksheetMeritListCtl HTTP/1.1" 200 15598
+0:0:0:0:0:0:0:1 - - [05/Nov/2022:17:40:45 +0530] "GET /project_3/img/avatar-g92feff2a2_1920.webp HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [05/Nov/2022:17:40:54 +0530] "GET /project_3/ctl/JasperCtl HTTP/1.1" 200 1930
+0:0:0:0:0:0:0:1 - - [05/Nov/2022:17:41:20 +0530] "GET /project_3/LoginCtl HTTP/1.1" 200 13356
+0:0:0:0:0:0:0:1 - - [05/Nov/2022:17:41:28 +0530] "GET /project_3/ctl/MarksheetListCtl HTTP/1.1" 200 17265
+0:0:0:0:0:0:0:1 - - [05/Nov/2022:17:43:34 +0530] "GET /project_3/ctl/MarksheetMeritListCtl HTTP/1.1" 200 15598
+0:0:0:0:0:0:0:1 - - [05/Nov/2022:17:43:34 +0530] "GET /project_3/img/avatar-g92feff2a2_1920.webp HTTP/1.1" 404 973

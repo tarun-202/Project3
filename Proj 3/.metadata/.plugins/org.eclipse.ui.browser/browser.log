@@ -1,0 +1,283 @@
+
+Oct 26, 2022 10:38:24.40 NEW SESSION
+Oct 26, 2022 10:38:24.40 [7856:6664:1026/103824.403:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 10:38:24.40 [7856:6664:1026/103824.405:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 10:38:24.40 [7856:6664:1026/103824.406:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 10:38:24.41 [7856:6664:1026/103824.406:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 10:38:24.41 [7856:6664:1026/103824.406:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 10:38:24.41 [7856:6664:1026/103824.406:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 10:38:25.14 [7856:1040:1026/103825.143:ERROR:device_event_log_impl.cc(214)] [10:38:25.143] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Oct 26, 2022 10:38:25.14 [7856:1040:1026/103825.144:ERROR:device_event_log_impl.cc(214)] [10:38:25.144] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Oct 26, 2022 10:38:44.63 [7856:6664:1026/103844.635:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 10:38:50.43 [7856:6664:1026/103850.438:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 10:38:50.89 [7856:6664:1026/103850.891:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 10:38:51.91 [7856:6664:1026/103851.909:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 10:38:53.05 [7856:6664:1026/103853.057:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 10:38:54.14 [7856:6664:1026/103854.141:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 10:39:20.38 [7856:7056:1026/103920.386:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Oct 26, 2022 10:39:32.64 [7856:6664:1026/103932.640:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 10:39:33.03 [7856:6664:1026/103933.037:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 10:39:34.31 [7856:6664:1026/103934.313:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 10:39:37.51 [7856:6664:1026/103937.511:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 10:39:39.84 [7856:6664:1026/103939.843:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 10:39:49.59 [7856:6664:1026/103949.595:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 10:41:01.77 [7856:6664:1026/104101.778:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 10:41:12.38 [7856:6664:1026/104112.384:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 10:41:22.90 [7856:6664:1026/104122.905:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 10:41:27.93 [7856:6664:1026/104127.931:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 10:41:33.35 [7856:6664:1026/104133.352:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 10:41:33.39 [7856:6664:1026/104133.399:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 10:44:02.42 [7856:6664:1026/104402.419:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 10:44:16.94 [7856:6664:1026/104416.946:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 10:44:23.56 [7856:6664:1026/104423.566:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 10:44:25.68 [7856:6664:1026/104425.689:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 10:44:28.22 [7856:6664:1026/104428.224:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 10:44:44.02 [7856:6664:1026/104444.025:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 10:50:19.06 [7856:6664:1026/105019.063:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 10:50:36.28 [7856:6664:1026/105036.282:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 10:50:36.28 [7856:1040:1026/105036.283:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Oct 26, 2022 10:51:18.02 [7856:6664:1026/105118.028:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 10:51:32.92 [7856:6664:1026/105132.928:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 10:52:01.34 [7856:6664:1026/105201.346:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 10:52:06.91 [7856:6664:1026/105206.913:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 10:55:18.05 [7856:6664:1026/105518.054:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 10:55:43.33 [7856:6664:1026/105543.333:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 10:56:25.93 [7856:6664:1026/105625.930:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 10:57:59.92 [7856:6664:1026/105759.925:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 11:01:04.75 [7856:6664:1026/110104.757:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 11:02:01.35 [7856:6664:1026/110201.351:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 11:06:32.06 [7856:6664:1026/110632.066:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 11:06:36.46 [7856:1040:1026/110632.069:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Oct 26, 2022 11:12:01.37 [7856:6664:1026/111201.372:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 11:16:24.56 [7856:6664:1026/111624.567:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 11:16:45.82 [7856:6664:1026/111645.826:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 11:17:30.82 [7856:6664:1026/111730.819:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 11:19:21.56 [7856:6664:1026/111921.567:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 11:22:01.38 [7856:6664:1026/112201.384:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 11:22:03.31 [7856:6664:1026/112203.312:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 11:29:52.01 [7856:6664:1026/112952.014:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 11:29:52.01 [7856:1040:1026/112952.014:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Oct 26, 2022 12:59:57.83 [7856:6664:1026/125957.831:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 12:59:57.83 [7856:6664:1026/125957.833:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 13:00:17.97 [7856:6664:1026/130017.973:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 13:01:05.46 [7856:6664:1026/130105.463:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 13:02:58.36 [7856:6664:1026/130258.360:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 13:05:56.63 [7856:6664:1026/130556.639:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 13:09:57.84 [7856:6664:1026/130957.847:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 13:13:50.65 [7856:6664:1026/131350.649:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 13:13:50.65 [7856:1040:1026/131350.650:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Oct 26, 2022 13:19:57.86 [7856:6664:1026/131957.860:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 13:29:57.87 [7856:6664:1026/132957.873:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 13:39:57.89 [7856:6664:1026/133957.889:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 13:49:57.89 [7856:6664:1026/134957.898:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 13:51:46.68 [7856:6664:1026/135146.686:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 13:52:16.42 [7856:6664:1026/135216.426:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 13:53:08.21 [7856:6664:1026/135308.217:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 13:54:43.22 [7856:6664:1026/135443.227:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 14:37:37.82 [7856:6664:1026/143737.822:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 14:37:37.82 [7856:6664:1026/143737.824:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 14:43:39.79 [7856:6664:1026/144339.790:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 14:43:39.79 [7856:1040:1026/144339.790:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Oct 26, 2022 14:47:37.82 [7856:6664:1026/144737.829:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 14:57:37.83 [7856:6664:1026/145737.836:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 15:07:37.85 [7856:6664:1026/150737.854:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 15:17:37.86 [7856:6664:1026/151737.860:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 15:27:37.87 [7856:6664:1026/152737.871:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 15:37:37.87 [7856:6664:1026/153737.876:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 15:39:20.36 [7856:7104:1026/153920.366:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Oct 26, 2022 15:47:37.88 [7856:6664:1026/154737.881:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 15:56:22.56 [7856:6664:1026/155622.568:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 15:56:42.88 [7856:6664:1026/155642.885:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 15:57:29.43 [7856:6664:1026/155729.437:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 15:57:37.88 [7856:6664:1026/155737.885:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 15:59:03.98 [7856:6664:1026/155903.985:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 16:02:19.71 [7856:6664:1026/160219.712:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 16:07:37.89 [7856:6664:1026/160737.898:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 16:09:35.42 [7856:6664:1026/160935.423:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 16:09:35.42 [7856:1040:1026/160935.424:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Oct 26, 2022 16:17:37.90 [7856:6664:1026/161737.903:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 16:27:37.91 [7856:6664:1026/162737.916:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 17:44:02.75 [7856:6664:1026/174402.757:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 17:54:02.77 [7856:6664:1026/175402.772:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 18:04:02.77 [7856:6664:1026/180402.775:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 18:14:02.79 [7856:6664:1026/181402.790:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 18:24:02.80 [7856:6664:1026/182402.800:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 18:34:02.81 [7856:6664:1026/183402.810:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 18:34:43.49 [7856:6664:1026/183443.495:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 18:35:10.55 [7856:6664:1026/183510.557:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 18:36:01.44 [7856:6664:1026/183601.442:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 18:37:50.35 [7856:6664:1026/183750.354:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 18:40:59.44 [7856:6664:1026/184059.440:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 18:44:02.81 [7856:6664:1026/184402.814:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 18:48:19.17 [7856:6664:1026/184819.173:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 26, 2022 18:48:19.17 [7856:1040:1026/184819.173:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Oct 26, 2022 18:55:07.69 [7856:6664:1026/185507.690:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 27, 2022 10:06:05.81 [7856:6664:1027/100605.815:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 27, 2022 10:06:05.85 [7856:6664:1027/100605.815:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 27, 2022 10:06:06.88 [7856:9112:1027/100606.870:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Oct 27, 2022 10:06:26.08 [7856:6664:1027/100626.089:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 27, 2022 10:07:17.99 [7856:6664:1027/100717.991:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 27, 2022 10:08:49.00 [7856:6664:1027/100849.000:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 27, 2022 10:12:24.82 [7856:6664:1027/101224.829:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 27, 2022 10:16:05.81 [7856:6664:1027/101605.816:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 27, 2022 10:19:36.87 [7856:6664:1027/101936.879:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 27, 2022 10:19:36.88 [7856:1040:1027/101936.879:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Oct 27, 2022 10:24:56.85 [7856:1040:1027/102456.850:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Oct 27, 2022 10:26:05.82 [7856:6664:1027/102605.825:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 27, 2022 10:36:05.84 [7856:6664:1027/103605.843:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 27, 2022 10:46:05.85 [7856:6664:1027/104605.854:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 27, 2022 10:51:15.05 [7856:6664:1027/105115.057:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 27, 2022 10:51:40.20 [7856:6664:1027/105140.203:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 27, 2022 10:52:03.94 [7856:6664:1027/105203.944:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 27, 2022 10:52:29.90 [7856:6664:1027/105229.906:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 27, 2022 10:52:30.63 [7856:6664:1027/105230.633:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 27, 2022 10:53:13.16 [7856:6664:1027/105313.169:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 27, 2022 10:54:17.91 [7856:6664:1027/105417.914:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 27, 2022 10:54:52.48 [7856:6664:1027/105452.489:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 27, 2022 10:56:05.86 [7856:6664:1027/105605.860:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 27, 2022 10:57:31.18 [7856:6664:1027/105731.189:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 27, 2022 10:58:26.88 [7856:6664:1027/105826.879:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 27, 2022 11:04:26.08 [7856:6664:1027/110426.088:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 27, 2022 11:05:46.30 [7856:6664:1027/110546.300:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Oct 27, 2022 11:06:05.86 [7856:6664:1027/110605.864:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 27, 2022 11:16:05.87 [7856:6664:1027/111605.871:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 27, 2022 11:26:05.88 [7856:6664:1027/112605.887:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 27, 2022 11:36:05.89 [7856:6664:1027/113605.894:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 27, 2022 11:46:05.90 [7856:6664:1027/114605.901:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 27, 2022 11:56:05.91 [7856:6664:1027/115605.912:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 27, 2022 12:06:05.91 [7856:6664:1027/120605.919:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 27, 2022 13:19:52.96 [7856:6664:1027/131952.961:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 27, 2022 13:29:52.97 [7856:6664:1027/132952.974:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 27, 2022 13:39:52.97 [7856:6664:1027/133952.976:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 27, 2022 13:49:52.99 [7856:6664:1027/134952.993:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 27, 2022 15:00:56.86 [7856:6664:1027/150056.861:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 27, 2022 15:06:05.73 [7856:8456:1027/150605.736:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Oct 27, 2022 15:10:56.86 [7856:6664:1027/151056.864:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 27, 2022 15:21:02.69 [7856:6664:1027/152102.696:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 27, 2022 17:13:11.67 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Oct 28, 2022 11:25:00.34 [7856:1152:1028/112500.343:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Oct 28, 2022 11:36:17.54 [7856:6664:1028/113617.539:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 28, 2022 11:36:17.87 [7856:1040:1028/113617.875:ERROR:device_event_log_impl.cc(214)] [11:36:17.875] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Oct 28, 2022 11:36:21.62 [7856:6664:1028/113621.621:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 28, 2022 11:36:26.21 [7856:6664:1028/113626.219:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 28, 2022 16:16:44.28 [7856:6664:1028/161644.281:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 28, 2022 16:16:44.46 [7856:10224:1028/161644.287:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 28, 2022 16:16:49.60 [7856:6664:1028/161649.603:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 28, 2022 17:38:56.31 [7856:1040:1028/173856.305:ERROR:interface_endpoint_client.cc(689)] Message 0 rejected by interface blink.mojom.WidgetHost
+Oct 29, 2022 10:51:58.92 [7856:5740:1029/105158.923:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 29, 2022 10:51:59.05 [7856:6664:1029/105159.052:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 29, 2022 10:52:05.82 [7856:6664:1029/105205.826:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 29, 2022 15:32:25.24 [7856:6664:1029/153225.239:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 29, 2022 15:32:25.51 [7856:9964:1029/153225.246:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 29, 2022 16:04:56.19 [7856:6664:1029/160456.187:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 29, 2022 16:05:04.27 [7856:6664:1029/160504.271:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -109
+Oct 29, 2022 16:05:06.32 [7856:6664:1029/160506.325:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 29, 2022 16:05:06.76 [7856:1040:1029/160506.760:ERROR:device_event_log_impl.cc(214)] [16:05:06.760] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Oct 29, 2022 16:32:38.30 [7856:4636:1029/163238.302:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Nov 02, 2022 16:41:36.67 NEW SESSION
+Nov 02, 2022 16:41:36.67 [3696:1100:1102/164136.647:ERROR:device_event_log_impl.cc(214)] [16:41:36.647] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 02, 2022 16:41:36.69 [3696:1100:1102/164136.648:ERROR:device_event_log_impl.cc(214)] [16:41:36.648] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 02, 2022 16:42:33.01 [3696:6832:1102/164233.015:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Nov 02, 2022 21:44:46.31 [3696:6296:1102/214446.319:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Nov 02, 2022 21:59:27.48 [3696:1100:1102/215927.480:ERROR:device_event_log_impl.cc(214)] [21:59:27.479] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Nov 05, 2022 16:14:45.68 NEW SESSION
+Nov 05, 2022 16:14:45.68 [10204:8372:1105/161445.684:ERROR:device_event_log_impl.cc(215)] [16:14:45.684] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 05, 2022 16:14:45.72 [10204:8372:1105/161445.686:ERROR:device_event_log_impl.cc(215)] [16:14:45.686] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 05, 2022 16:15:41.97 [10204:6404:1105/161541.972:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Nov 05, 2022 16:35:55.14 [10204:9400:1105/163555.140:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 05, 2022 16:35:55.56 [10204:8372:1105/163555.512:ERROR:device_event_log_impl.cc(215)] [16:35:55.512] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 05, 2022 17:12:02.87 [10204:8040:1105/171202.870:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for api.lunamedia.io failed:
+Nov 05, 2022 17:12:02.94 ----- Certificate i=0 (CN=*.lunamedia.io) -----
+Nov 05, 2022 17:12:02.94 ERROR: Time is after notAfter
+Nov 05, 2022 17:12:02.94 
+Nov 05, 2022 17:12:02.94 
+Nov 05, 2022 17:22:59.58 [10204:9400:1105/172259.580:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 05, 2022 17:23:07.21 [10204:9400:1105/172307.217:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+Nov 05, 2022 17:24:17.85 [10204:9400:1105/172417.851:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+
+Nov 09, 2022 14:27:51.45 NEW SESSION
+Nov 09, 2022 14:27:51.45 [6860:9360:1109/142751.392:ERROR:device_event_log_impl.cc(215)] [14:27:51.392] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 09, 2022 14:27:51.51 [6860:9360:1109/142751.394:ERROR:device_event_log_impl.cc(215)] [14:27:51.393] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 09, 2022 14:28:46.97 [6860:10640:1109/142846.974:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Nov 09, 2022 14:30:27.88 [6860:10780:1109/143027.882:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+Nov 09, 2022 14:30:31.27 [6860:10780:1109/143031.273:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+Nov 09, 2022 14:30:43.98 [6860:10780:1109/143043.984:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+Nov 09, 2022 14:30:46.04 [6860:10780:1109/143046.047:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 09, 2022 14:30:46.40 [6860:9360:1109/143046.399:ERROR:device_event_log_impl.cc(215)] [14:30:46.399] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 09, 2022 14:31:04.36 [6860:10780:1109/143104.368:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+Nov 09, 2022 14:31:06.57 [6860:10780:1109/143106.575:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+Nov 09, 2022 14:34:19.67 [6860:10780:1109/143419.677:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 09, 2022 14:34:46.55 [6860:10780:1109/143446.554:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 09, 2022 14:35:32.45 [6860:10780:1109/143532.449:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 09, 2022 14:45:26.14 [6116:6964:1109/144526.141:ERROR:device_event_log_impl.cc(215)] [14:45:26.141] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 09, 2022 14:45:26.18 [6116:6964:1109/144526.145:ERROR:device_event_log_impl.cc(215)] [14:45:26.144] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 09, 2022 14:46:21.34 [6116:3752:1109/144621.341:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Nov 09, 2022 14:58:05.24 [6116:9992:1109/145805.245:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+Nov 09, 2022 15:07:47.03 [6116:9992:1109/150747.033:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 09, 2022 15:07:47.45 [6116:6964:1109/150747.452:ERROR:device_event_log_impl.cc(215)] [15:07:47.452] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 09, 2022 15:11:12.67 [6116:9992:1109/151112.669:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+Nov 09, 2022 15:11:24.23 [6116:9992:1109/151124.236:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+Nov 09, 2022 15:11:26.27 [6116:9992:1109/151126.275:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 09, 2022 15:11:43.97 [6116:9992:1109/151143.977:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+Nov 09, 2022 15:18:43.86 [6116:9992:1109/151843.867:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+Nov 09, 2022 15:19:18.22 [6116:9992:1109/151918.229:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 09, 2022 15:19:46.67 [6116:9992:1109/151946.676:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 09, 2022 15:20:35.51 [6116:9992:1109/152035.509:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 09, 2022 15:21:32.88 [6116:9992:1109/152132.880:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+Nov 09, 2022 16:02:28.89 [6116:9992:1109/160228.892:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+Nov 09, 2022 16:02:38.06 [6116:9992:1109/160238.062:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+Nov 09, 2022 16:02:40.08 [6116:9992:1109/160240.087:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 09, 2022 16:21:57.96 [6116:9992:1109/162157.951:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 09, 2022 19:51:26.37 [6116:9992:1109/195126.372:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 09, 2022 19:51:26.52 [6116:3516:1109/195126.392:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Nov 09, 2022 19:51:27.30 [6116:8132:1109/195127.253:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Nov 10, 2022 09:09:32.94 [6116:6824:1110/090932.746:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Nov 10, 2022 09:09:45.55 [6116:9992:1110/090945.554:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+Nov 10, 2022 09:09:45.64 [6116:6244:1110/090945.644:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Nov 10, 2022 09:09:47.76 [6116:9992:1110/090947.767:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 10, 2022 09:25:24.20 [6116:9992:1110/092524.180:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 10, 2022 09:25:53.63 [6116:9992:1110/092553.634:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 10, 2022 09:26:49.81 [6116:9992:1110/092649.818:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 10, 2022 09:28:37.89 [6116:9992:1110/092837.898:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 10, 2022 09:31:31.04 [6116:9992:1110/093131.042:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 10, 2022 09:38:17.45 [6116:9992:1110/093817.457:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 10, 2022 12:18:35.76 [6116:9992:1110/121835.768:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 10, 2022 13:18:01.77 [6116:10912:1110/131801.778:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Nov 10, 2022 13:18:01.81 [6116:9992:1110/131801.788:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 10, 2022 14:09:29.07 [6116:3440:1110/140929.075:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Nov 10, 2022 16:10:01.21 [6116:9992:1110/161001.212:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+Nov 10, 2022 16:36:18.71 [6116:9992:1110/163618.694:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 10, 2022 16:36:38.42 [6116:9992:1110/163638.423:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -103
+Nov 10, 2022 16:36:40.44 [6116:9992:1110/163640.448:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 10, 2022 16:36:50.06 [6116:9992:1110/163650.068:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+Nov 10, 2022 16:36:52.14 [6116:9992:1110/163652.143:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+Nov 10, 2022 16:39:42.75 [6116:9992:1110/163942.752:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+Nov 10, 2022 22:47:24.97 [6116:9992:1110/224724.970:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -7
+Nov 10, 2022 22:47:28.47 [6116:9992:1110/224728.478:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+Nov 10, 2022 22:47:28.50 [6116:8224:1110/224728.505:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Nov 11, 2022 08:36:41.07 [6116:10928:1111/083640.477:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Nov 11, 2022 08:36:42.83 [6116:9992:1111/083642.832:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+Nov 11, 2022 08:36:42.85 [6116:2620:1111/083642.856:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Nov 11, 2022 08:36:55.17 [6116:9992:1111/083655.175:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 11, 2022 09:58:27.50 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Nov 11, 2022 14:02:42.37 [6116:5960:1111/140242.349:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Nov 11, 2022 15:51:25.91 [6116:9992:1111/155125.863:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+Nov 11, 2022 15:52:04.58 [6116:5960:1111/155204.587:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Nov 11, 2022 15:52:10.99 [6116:5960:1111/155210.998:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Nov 11, 2022 16:02:39.56 [6116:9992:1111/160239.560:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+Nov 11, 2022 17:28:03.03 [6116:9992:1111/172803.037:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -7
+Nov 11, 2022 17:28:06.25 [6116:9992:1111/172806.250:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+Nov 11, 2022 17:28:06.26 [6116:2084:1111/172806.260:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Nov 11, 2022 17:28:48.73 [6116:9992:1111/172848.732:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 11, 2022 17:29:40.64 [6116:9992:1111/172940.643:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+Nov 11, 2022 17:29:40.80 [6116:2084:1111/172940.801:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Nov 11, 2022 17:29:42.67 [6116:9992:1111/172942.671:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 11, 2022 17:30:10.55 [6116:9992:1111/173010.557:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+Nov 11, 2022 17:30:13.88 [6116:2100:1111/173013.878:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Nov 11, 2022 17:30:16.03 [6116:9992:1111/173016.030:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 11, 2022 17:30:16.03 [6116:2100:1111/173016.031:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Nov 11, 2022 20:48:26.19 [6116:9992:1111/204826.192:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 11, 2022 20:48:26.23 [6116:9992:1111/204826.220:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 11, 2022 20:48:27.60 [6116:4340:1111/204827.600:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
